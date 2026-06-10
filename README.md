@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm Lochan! 👋
 
 <p align="center">
   <strong>[Your Role, e.g., Full-Stack Developer / UI/UX Enthusiast / Data Science Student]</strong>
