@@ -1,4 +1,4 @@
-# Hi there, I'm Lochan! 👋
+# Hi there, I'm Lochan 👋.
 
 <p align="center">
   <strong>A PASSIONATE FIRST-YEAR COMPUTER SCIENCE STUDENT </strong>
